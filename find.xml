@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\CellsActions\CellsActionsSystem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\CellsActions\CellsActionsSystem.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\CellsActions\CellsActionsSystem.cs'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
