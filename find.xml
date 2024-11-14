@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\LevelCells\Data\LevelCellData\LevelFillerData.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\LevelCells\Data\LevelCellData\LevelFillerData.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Editor\LevelCreator\LevelCreator.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Editor\LevelCreator\LevelCreator.cs'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\LevelCells\Data\LevelCellData\LevelFillerData.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Editor\LevelCreator\LevelCreator.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
