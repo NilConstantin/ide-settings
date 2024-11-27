@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…\Assets\Game\Features\Narrative\Code\Actions\Tutorial\MoveFingerTutorialAction.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Narrative\Code\Actions\Tutorial\MoveFingerTutorialAction.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\Narrative\Code\Actions\Tutorial\FillCellsTutorialAction.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Narrative\Code\Actions\Tutorial\FillCellsTutorialAction.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Narrative\Code\Actions\Tutorial\MoveFingerTutorialAction.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Narrative\Code\Actions\Tutorial\FillCellsTutorialAction.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
