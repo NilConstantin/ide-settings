@@ -1,11 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Hero\HeroPhysicsSystem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Hero\HeroPhysicsSystem.cs'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Hero\HeroPhysicsSystem.cs'" />
-    <option name="FILE_MASK" value="*.cs" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
     <mask>*.cs</mask>
   </component>
 </application>
