@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Fight\Attack\Components\AttackProvider.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Fight\Attack\Components\AttackProvider.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Fight\Attack\Components\AttackProvider.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\Flashable\Components\FlashableProvider.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Flashable\Components\FlashableProvider.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Flashable\Components\FlashableProvider.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
