@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Services\Ads\Code\AdsButton.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Services\Ads\Code\AdsButton.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Services\Ads\Code\AdsButton.cs'" />
+    <option name="customScope" value="File '…\Assets\MaxSdk\Scripts\MaxSdkCallbacks.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\MaxSdk\Scripts\MaxSdkCallbacks.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\MaxSdk\Scripts\MaxSdkCallbacks.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
