@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\Ui\Screens\MainMenuScreen\Code\MainMenuScreen.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Ui\Screens\MainMenuScreen\Code\MainMenuScreen.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Ui\Screens\MainMenuScreen\Code\MainMenuScreen.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\ControlPanel\Code\ControlPanelHudElement.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\ControlPanel\Code\ControlPanelHudElement.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\ControlPanel\Code\ControlPanelHudElement.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
