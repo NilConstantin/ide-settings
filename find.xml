@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\Sound\SoundsSource.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Sound\SoundsSource.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Sound\SoundsSource.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\Flashable\Components\FlashableProvider.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Flashable\Components\FlashableProvider.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Flashable\Components\FlashableProvider.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
