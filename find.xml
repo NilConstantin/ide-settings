@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\Sound\SoundSystem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Sound\SoundSystem.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Sound\SoundSystem.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Editor\Audio\SoundsIdsGenerator.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Editor\Audio\SoundsIdsGenerator.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Editor\Audio\SoundsIdsGenerator.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
