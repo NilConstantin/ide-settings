@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Units\Common\Core\Components\UnitVisualProvider.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Units\Common\Core\Components\UnitVisualProvider.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Units\Common\Core\Components\UnitVisualProvider.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Units\Common\Data\DataStructures\UnitData.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Units\Common\Data\DataStructures\UnitData.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Units\Common\Data\DataStructures\UnitData.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
