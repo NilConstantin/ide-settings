@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Battle\SharedLogic\TargetLogic.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Battle\SharedLogic\TargetLogic.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Battle\SharedLogic\TargetLogic.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Battle\Projectiles\Projectile\ProjectileSystem.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Battle\Projectiles\Projectile\ProjectileSystem.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Battle\Projectiles\Projectile\ProjectileSystem.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
