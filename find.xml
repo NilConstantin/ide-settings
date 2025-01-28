@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Core\Library\Editor\AnimationsHelpers\AnimationPrefixEditor.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Core\Library\Editor\AnimationsHelpers\AnimationPrefixEditor.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Core\Library\Editor\AnimationsHelpers\AnimationPrefixEditor.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Obstacles\Ids\ObstacleId.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Obstacles\Ids\ObstacleId.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Obstacles\Ids\ObstacleId.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
