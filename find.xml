@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\ObjectsGrid\ObjectsGridProvider.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\ObjectsGrid\ObjectsGridProvider.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\ObjectsGrid\ObjectsGridProvider.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\ObjectsGrid\ObjectsGridSystem.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\ObjectsGrid\ObjectsGridSystem.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\ObjectsGrid\ObjectsGridSystem.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
