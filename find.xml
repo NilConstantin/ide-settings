@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Abilities\Core\Data\BehaviorsData.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Abilities\Core\Data\BehaviorsData.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Abilities\Core\Data\BehaviorsData.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Services\Audio\Sound\Code\SoundService.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Services\Audio\Sound\Code\SoundService.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Services\Audio\Sound\Code\SoundService.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
