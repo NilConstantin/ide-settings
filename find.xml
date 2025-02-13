@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Abilities\OldAbilitySelection\Data\AbilityCardsGeneratorData.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Abilities\OldAbilitySelection\Data\AbilityCardsGeneratorData.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Abilities\OldAbilitySelection\Data\AbilityCardsGeneratorData.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\AbilitySelection\Code\AbilitySelectionHudElement.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\AbilitySelection\Code\AbilitySelectionHudElement.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\AbilitySelection\Code\AbilitySelectionHudElement.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
