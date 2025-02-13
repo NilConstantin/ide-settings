@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\AbilitySelection\Code\AbilitySelectionHudElement.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\AbilitySelection\Code\AbilitySelectionHudElement.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\AbilitySelection\Code\AbilitySelectionHudElement.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\Data\Ui\Nested\RarityUiData.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Data\Ui\Nested\RarityUiData.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Data\Ui\Nested\RarityUiData.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.cs</mask>
   </component>
