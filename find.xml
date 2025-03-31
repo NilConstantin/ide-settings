@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\Movement\TransformMovement\WaveMovement\WaveMovementProvider.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Movement\TransformMovement\WaveMovement\WaveMovementProvider.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Movement\TransformMovement\WaveMovement\WaveMovementProvider.cs'" />
+    <option name="customScope" value="File '…\Assets\Feel\NiceVibrations\Scripts\Editor\HapticImporter.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Feel\NiceVibrations\Scripts\Editor\HapticImporter.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Feel\NiceVibrations\Scripts\Editor\HapticImporter.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
