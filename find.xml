@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Combat\RangedShots\BounceProjectile\BounceProjectileSystem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Combat\RangedShots\BounceProjectile\BounceProjectileSystem.cs'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Combat\RangedShots\BounceProjectile\BounceProjectileSystem.cs'" />
-    <option name="FILE_MASK" value="*.cs" />
+    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Abilities\Editor\AbilityNodeView.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Abilities\Editor\AbilityNodeView.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Abilities\Editor\AbilityNodeView.cs'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
     <mask>*.cs</mask>
   </component>
 </application>
