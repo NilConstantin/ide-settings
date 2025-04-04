@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Block\BlockSystem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Block\BlockSystem.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Block\BlockSystem.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\ExperienceProgress\Code\ExperienceProgressHudElement.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\ExperienceProgress\Code\ExperienceProgressHudElement.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\ExperienceProgress\Code\ExperienceProgressHudElement.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
