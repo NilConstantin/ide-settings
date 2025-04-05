@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\Ui\Screens\FailScreen\Code\FailScreen.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Ui\Screens\FailScreen\Code\FailScreen.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Ui\Screens\FailScreen\Code\FailScreen.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\Data\Ui\Nested\CollectFlowData.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Data\Ui\Nested\CollectFlowData.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Data\Ui\Nested\CollectFlowData.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
