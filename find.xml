@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\Debug\HotkeyCheats\Code\MainGameplayHotKeySystem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Debug\HotkeyCheats\Code\MainGameplayHotKeySystem.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Debug\HotkeyCheats\Code\MainGameplayHotKeySystem.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Combat\Weapon\WeaponSystem.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Combat\Weapon\WeaponSystem.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Combat\Weapon\WeaponSystem.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
