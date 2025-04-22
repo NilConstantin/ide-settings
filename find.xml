@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Combat\RangedShots\Buzzsaw\BuzzsawSystem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Combat\RangedShots\Buzzsaw\BuzzsawSystem.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Combat\RangedShots\Buzzsaw\BuzzsawSystem.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\Movement\TransformMovement\AvoidMovement\AvoidMovementSystem.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Movement\TransformMovement\AvoidMovement\AvoidMovementSystem.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Movement\TransformMovement\AvoidMovement\AvoidMovementSystem.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
