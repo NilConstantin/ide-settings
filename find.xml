@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Combat\RangedShots\SimpleProjectile\SimpleProjectileSystem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Combat\RangedShots\SimpleProjectile\SimpleProjectileSystem.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Combat\RangedShots\SimpleProjectile\SimpleProjectileSystem.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Shared\Visual\Shaders\CustomSimpleLit\CustomSimpleLitForwardPass.hlsl'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Shared\Visual\Shaders\CustomSimpleLit\CustomSimpleLitForwardPass.hlsl'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Shared\Visual\Shaders\CustomSimpleLit\CustomSimpleLitForwardPass.hlsl'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
