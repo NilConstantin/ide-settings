@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\Data\Ui\Nested\RarityUiData.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Data\Ui\Nested\RarityUiData.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Data\Ui\Nested\RarityUiData.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Abilities\Editor\AbilityNodeView.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Abilities\Editor\AbilityNodeView.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Abilities\Editor\AbilityNodeView.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
