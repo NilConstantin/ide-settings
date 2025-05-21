@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\Combat\HealthAndDamage\DamageSystem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\Combat\HealthAndDamage\DamageSystem.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\Combat\HealthAndDamage\DamageSystem.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\PassiveUpgradesTree\Code\TinyPassiveUpgradesTreeHudElement.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\PassiveUpgradesTree\Code\TinyPassiveUpgradesTreeHudElement.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\Ui\GameplayUi\HudUi\PassiveUpgradesTree\Code\TinyPassiveUpgradesTreeHudElement.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
