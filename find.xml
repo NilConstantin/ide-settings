@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\LevelBuilding\WarmUpSystem.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\LevelBuilding\WarmUpSystem.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\LevelBuilding\WarmUpSystem.cs'" />
+    <option name="customScope" value="File '…\Assets\Game\Features\MainGameplay\LevelBuilding\SharedLogic\LevelBlocksLogic.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Game\Features\MainGameplay\LevelBuilding\SharedLogic\LevelBlocksLogic.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Game\Features\MainGameplay\LevelBuilding\SharedLogic\LevelBlocksLogic.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
